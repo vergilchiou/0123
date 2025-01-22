@@ -1,3 +1,4 @@
-## 新增團隊成員區塊
+## 團隊成員區塊
 
 - CloneVergil
+- Vergil
